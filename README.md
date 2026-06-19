@@ -1,16 +1,26 @@
 ## Hi there 👋
 
-<!--
-**RowdySTEEL/RowdySTEEL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Hi, I'm RowdySTEEL!
 
-Here are some ideas to get you started:
+I'm a computer engineering student focused on understanding the logic behind system-level software and hardware. Writing low-level, performance-oriented code is one of my biggest passions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 💻 About Me
+
+- 🔭 **What I’m currently working on:** Developing my computer engineering projects and sharpening my practical skills.
+- 🌱 **What I’m currently learning:** Diving deep into C++; mastering system-level concepts like pointers, preprocessor macros, and bitwise operations.
+- 👯 **What I’m looking to collaborate on:** Open-source system programming projects and performance-driven C++ applications.
+- 💬 **Ask me about:** C++ fundamentals, low-level programming logic, or just to chat about software engineering!
+- 📫 **How to reach me:** [LinkedIn](https://linkedin.com/in/mustafa-berk-çelik-225081231)
+
+---
+
+### 🛠️ Technologies & Tools
+
+- **Languages:** C, C++
+- **Interests:** System Programming, Low-Level Coding, Computer Architecture
+
+---
+
+*Thank you for visiting my profile!*
