@@ -1,1 +1,0 @@
-KSÜ computer engineering!
